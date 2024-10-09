@@ -1,0 +1,4 @@
+com\tienda\productos\repository\ProductoRepository.class
+com\tienda\productos\controller\ProductoController.class
+com\tienda\productos\model\Producto.class
+com\tienda\productos\ProductosApplication.class
